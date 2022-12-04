@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header-links {
+  @apply text-white px-8 text-xl font-bold mt-1;
+}
