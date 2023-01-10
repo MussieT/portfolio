@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .header-links {
-  @apply text-white px-8 text-xl font-bold mt-1;
+  @apply text-white px-8 my-10 text-xl font-lato font-bold mt-1;
 }
