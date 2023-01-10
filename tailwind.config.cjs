@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         lato: ["lato"],
+        monoton: ["Monoton"]
       },
     },
     colors: {
